@@ -1,9 +1,16 @@
 ### Hello there 👋
 
-- 🧑‍💻 Sou Estudante de Engenharia de Software na UFAM
-- 🔭 Hoje Estudo e Prático desenvolvimento frontend e backend 
-- 🌱 Atualmente estou estudando typescript e Data Science
-- 👯 Procuro vagas de desenvolvimento de software 
+Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação, apaixonado por desenvolvimento e resolução de problemas. Aqui estão algumas informações sobre minha jornada e interesses:
+
+🧑‍💻 Bacharel em Engenharia de Software na Universidade Federal do Amazonas (UFAM). Minha trajetória acadêmica e profissional me proporcionou uma base sólida em diversos aspectos da tecnologia.
+
+🔭 Experiência em Desenvolvimento Frontend e Backend: Tenho habilidades abrangentes em desenvolvimento web, com foco tanto no frontend quanto no backend. Sou apaixonado por criar aplicações que não só funcionem bem, mas também ofereçam uma experiência de usuário excepcional.
+
+🌱 Interesses Atuais: Estou me aprofundando Aprendizagem de máquina e Ciência de Dados. Tenho experiência em desenvolver soluções usando Machine Learning e sou conhecedor de práticas de Usabilidade e Experiência do Usuário (UX).
+
+👯 À Procura de Oportunidades: Estou ativamente buscando oportunidades de desenvolvimento de software. Meu objetivo é aplicar minhas habilidades em um ambiente que valorize a inovação, a resolução de problemas e a excelência.
+
+🌟 Abordagem Centrada em Resultados: Minha abordagem é sempre buscar a excelência e inovação. Estou comprometido em superar desafios e contribuir significativamente para o sucesso de projetos e equipes, aplicando meu conhecimento em planejamento, gestão de projetos e desenvolvimento de automações.
 
 <div align="center">
   <a href="https://github.com/MiguelCastro1">
