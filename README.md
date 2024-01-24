@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação, apaixonado por desenvolvimento e resolução de problemas. Aqui estão algumas informações sobre minha jornada e interesses:
 
-🧑‍💻 Bacharel em Engenharia de Software na Universidade Federal do Amazonas (UFAM). Minha trajetória acadêmica e profissional me proporcionou uma base sólida em diversos aspectos da tecnologia.
+🧑‍💻 Graduado em Engenharia de Software na Universidade Federal do Amazonas (UFAM). Minha trajetória acadêmica e profissional me proporcionou uma base sólida em diversos aspectos da tecnologia.
 
 🔭 Experiência em Desenvolvimento Frontend e Backend: Tenho habilidades abrangentes em desenvolvimento web, com foco tanto no frontend quanto no backend. Sou apaixonado por criar aplicações que não só funcionem bem, mas também ofereçam uma experiência de usuário excepcional.
 
